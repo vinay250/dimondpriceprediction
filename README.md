@@ -19,3 +19,8 @@ Permissions
  Modification
  Distribution
  Private use
+
+ how run setup file
+ python setup.py install
+ #another way you can mention -e - in your requirements file and can run
+ pip install -r requirements.txt
