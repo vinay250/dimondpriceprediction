@@ -4,4 +4,4 @@ numpy
 seaborn
 ipykernel
 
--e .
+#-e.
